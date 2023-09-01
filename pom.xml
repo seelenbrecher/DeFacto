@@ -95,10 +95,10 @@
             <id>vaadin-addons</id>
             <url>http://maven.vaadin.com/vaadin-addons</url>
         </repository>
-        <repository>
+        <!-- <repository>
             <id>wordnet</id>
             <url>https://dev-iesl.cs.umass.edu/nexus/content/repositories/public/</url>
-        </repository>
+        </repository> -->
         <repository>
             <releases>
                 <enabled>true</enabled>
@@ -110,10 +110,10 @@
             <url>http://www.billylieurance.net/maven2</url>
             <layout>default</layout>
         </repository>
-         <repository>
+         <!-- <repository>
             <id>gerb_snapshots</id>
             <url>https://raw.github.com/gerbsen/maven-repo/master/snapshots/</url>
-        </repository>
+        </repository> -->
 
     </repositories>
     <dependencies>
