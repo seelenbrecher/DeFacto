@@ -65,10 +65,10 @@
             <name>Scala-tools Maven2 Repository</name>
             <url>http://scala-tools.org/repo-releases/</url>
         </repository>
-        <repository>
+        <!-- <repository>
             <id>tc-maven-repo</id>
             <url>https://github.com/tc/tc-maven-repo/raw/master/releases</url>
-        </repository>
+        </repository> -->
         <repository>
             <id>sameas-4j-googlecode</id>
             <url>http://asmx-sameas4j.googlecode.com/svn/repo</url>
